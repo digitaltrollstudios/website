@@ -1040,6 +1040,30 @@ section {
   padding-bottom: 40px;
 }
 
+#footer .legal {
+  text-align: center;
+}
+
+footer .legal a {
+  font-style: normal;
+}
+
 #footer .copyright {
   text-align: center;
+}
+
+/*--------------------------------------------------------------
+# Imprint
+--------------------------------------------------------------*/
+
+.imprint-de {
+  display: none;
+}
+
+/*--------------------------------------------------------------
+# Privacy Policy
+--------------------------------------------------------------*/
+
+.privacy-de {
+  display: none;
 }
