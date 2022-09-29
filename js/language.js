@@ -18,8 +18,8 @@ function changeLanguage(doc, lang, oldLang) {
   // alert(doc + " " + lang)
 
   var section = document.getElementById(doc + "-" + lang)
-  section.classList.remove("legal-hidden")
+  section.classList.remove("language-hidden")
 
   var oldSection = document.getElementById(doc + "-" + oldLang)
-  oldSection.classList.add("legal-hidden")
+  oldSection.classList.add("language-hidden")
 }
