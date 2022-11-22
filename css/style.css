@@ -480,7 +480,7 @@ section {
 --------------------------------------------------------------*/
 .featured {
   padding: 40px 0 0 0;
-  background: var(--neutrals-white);
+  background: var(--neutrals-smoke);
 }
 
 .featured .nav-tabs {
@@ -638,7 +638,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: var(--neutrals-smoke);
+  background: var(--neutrals-white);
   padding: 60px 0;
 }
 
