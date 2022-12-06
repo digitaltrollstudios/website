@@ -1,4 +1,5 @@
 ## General ##
+ErrorDocument 403 https://digitaltrollstudios.com
 Redirect 301 /buy https://digitaltrollstudios.com/#pricing
 
 ## Social Media ##
