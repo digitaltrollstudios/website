@@ -933,7 +933,8 @@ section {
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
-.contact .info .phone:hover i {
+.contact .info .phone:hover i,
+.contact .info .discord:hover i {
   background: var(--primary-fern);
   color: var(--neutrals-smoke);
 }
