@@ -365,6 +365,10 @@ h1 {
   color: var(--primary-fern);
 }
 
+#hero .hero-scrolldown-arrow {
+  color: var(--neutrals-smoke);
+}
+
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
