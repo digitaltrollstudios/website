@@ -47,6 +47,11 @@ h1 {
   color: var(--neutrals-smoke);
 }
 
+p.section-info {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
