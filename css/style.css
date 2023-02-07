@@ -308,6 +308,7 @@ p.section-info {
   width: 100%;
   height: 100vh;
   background: url("../img/bg/hero-bg.png");
+  background-size: cover;
   position: relative;
 }
 
@@ -350,7 +351,7 @@ p.section-info {
   text-transform: uppercase;
 }
 
-#hero .btn-get-started {
+#hero .btn-get-started, .btn-get-now {
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
@@ -364,7 +365,7 @@ p.section-info {
   background: var(--primary-fern);
 }
 
-#hero .btn-get-started:hover {
+#hero .btn-get-started:hover, .btn-get-now:hover {
   transition: 0.5s;
   background: var(--neutrals-smoke);
   color: var(--primary-fern);
@@ -831,7 +832,7 @@ section {
 
 .pricing .recommended-badge {
   position: absolute;
-  top: 5px;
+  top: 10px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
