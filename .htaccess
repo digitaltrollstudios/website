@@ -1,5 +1,5 @@
-ErrorDocument 404 https://digitaltrollstudios.com/404.html
+ErrorDocument 404 https://digitaltrollstudios.com/index.html
 
-Redirect 301 /about https://digitaltrollstudios.com/index.html#about
-Redirect 301 /team https://digitaltrollstudios.com/index.html#team
-Redirect 301 /contact https://digitaltrollstudios.com/index.html#contact
+Redirect 301 /about https://digitaltrollstudios.com/index.html
+Redirect 301 /team https://digitaltrollstudios.com/index.html
+Redirect 301 /contact https://digitaltrollstudios.com/index.html
